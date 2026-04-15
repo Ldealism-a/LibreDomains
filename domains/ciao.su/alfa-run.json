@@ -1,0 +1,19 @@
+{
+  "description": "个人博客和日常测试",
+  "subdomain": "alfa-run",
+  "domain": "ciao.su",
+  "owner": {
+    "name": "dynasty",
+    "github": "Ldealism-a",
+    "email": "dynasty2024@126.com"
+  },
+  "records": [
+    {
+      "type": "A",
+      "name": "@",
+      "content": "211.154.18.253 ",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
