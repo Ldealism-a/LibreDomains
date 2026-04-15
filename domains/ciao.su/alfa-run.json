@@ -11,7 +11,7 @@
     {
       "type": "A",
       "name": "@",
-      "content": "211.154.18.253 ",
+      "content": "211.154.18.253",
       "ttl": 3600,
       "proxied": false
     }
